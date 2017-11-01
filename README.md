@@ -6,4 +6,4 @@ Clone or download the repository onto your local computer. Then make sure to poi
 ## Usage
 When you initially begin the extension (for the very first time), press submit once to initialize the data with some example mock data to begin with. You can then choose your stress level and stressor tag and see the visualizations adjust in response. 
 
-Made by Chauncey Hill, Isaac Na and Lucas Drummond
+Made by Chauncey Hill, Isaac Na and Lucas Drummond for Archhacks 2017
